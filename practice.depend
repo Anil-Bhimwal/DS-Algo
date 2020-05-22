@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547712106 source:f:\coding ninjas\sololearn practice\practice\main.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+
